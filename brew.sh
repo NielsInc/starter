@@ -14,3 +14,4 @@ brew install node
 brew cask install intellij-idea
 brew cask install whatsapp
 brew cask install skype-for-business
+brew cask install cheatsheet
